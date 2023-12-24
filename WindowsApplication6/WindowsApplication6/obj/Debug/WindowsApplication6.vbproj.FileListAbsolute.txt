@@ -1,0 +1,10 @@
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication6\WindowsApplication6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
