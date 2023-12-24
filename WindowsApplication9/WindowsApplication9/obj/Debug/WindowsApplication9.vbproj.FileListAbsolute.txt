@@ -1,0 +1,10 @@
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication9\WindowsApplication9\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
