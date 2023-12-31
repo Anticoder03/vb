@@ -1,0 +1,10 @@
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\FormValidation\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\FormValidation\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\FormValidation\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\FormValidation\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\FormValidation\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\FormValidation\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\FormValidation\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\FormValidation\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\FormValidation\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Users\Ashish\Desktop\bca assingments\sem-4\vb\FormValidation\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
